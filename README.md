@@ -1,4 +1,4 @@
-# [goals.zone](https://goals.zone)
+# [goals.area](https://github.com/harunozenofficial/harunozenofficial.github.io.git)
 
 #### Build Status
 [![Build Status](https://github.com/meneses-pt/goals.zone/actions/workflows/deploy.yml/badge.svg)](https://github.com/meneses-pt/goals.zone/actions/workflows/deploy.yml)
